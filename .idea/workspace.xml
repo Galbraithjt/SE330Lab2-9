@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fe3a57e-767a-43e5-9bed-60217bdd7145" name="Default" comment="Remove Files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+    <list default="true" id="5fe3a57e-767a-43e5-9bed-60217bdd7145" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SE330Lab2-9.iws" />
@@ -372,7 +371,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455645709424</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Remove Files">
+      <created>1455645754541</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1455645754541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
